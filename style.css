@@ -4,7 +4,6 @@
 
 *{
     box-sizing: border-box;
-
 }
 
 body{
@@ -37,10 +36,6 @@ padding: 10px;
 margin: 5px;
 }
 
-.card:nth-child(2){
-    background: green;
-}
+.card:nth-child(2) {background: green;}
 
-.card:nth-child(3){
-    background: blue;
-}
+.card:nth-child(3) {background: yellow}
